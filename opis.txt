@@ -1,0 +1,6 @@
+Stworzy³em aplikacje kina, w której mo¿emy rezerwowaæ bilety na seanse, przegl¹dac wystawione oceny, sk³adaæ skargi na kino lub aplikacje, edytowaæ swoje dane, przegladac zarezerwowane bilety. Aby wejsc do aplikacji najpierw trzeba utworzyæ konto lub siê zalogowaæ.
+Moa aplikacja bazuje na panelach klasy UserControl. 
+Aplikacja spe³nia wszystkie wymagania dotycz¹ce zadania mianowicie: mo¿na tworzyæ nowe konto(INSERT), usuwaæ dany bilet z bazy(DELETE), a tak¿e uaktualniaæ dane w bazie(UPDATE). Celowo nie zaprogramowa³em panelu pod przyciskiem movies poniewa¿ bedzie dorobiony w przysz³oœci.
+Testowy uzytkownik kina do sprawdzenia aplikacji:
+Login: Jan80
+Has³o: 123
